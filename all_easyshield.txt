@@ -3,5 +3,5 @@
 ! Description: My Private Blocklist
 ! Expires: 6 hours
 
-!include base_easyshield.txt
-!include nsfw_easyshield.txt
+!#include base_easyshield.txt
+!#include nsfw_easyshield.txt
