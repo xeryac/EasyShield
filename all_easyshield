@@ -1,0 +1,7 @@
+[Ublock Origin]
+! Title: EasyShield - ALL
+! Description: My Private Blocklist
+! Expires: 6 hours
+
+!#include base_easyshield.txt
+!#include nsfw_easyshield.txt
