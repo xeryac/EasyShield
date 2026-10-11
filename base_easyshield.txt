@@ -44,3 +44,7 @@
 ||xalaflix2.com^$all
 ||xalaflix.link^$all
 ||xalaflix.fit^$all
+||movix.zip^$all
+||movix.online^$all
+||movix.website^$all
+||movix.fun^$all
