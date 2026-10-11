@@ -17,3 +17,8 @@
 ||com-appwinonewin-partnerapp.en.uptodown.com^$doc
 ||kompromat1.online^$doc
 ||cladue.ai^$all
+||xalaflix.vip^$doc
+||xalaflix.org^$doc
+||xalaflix.eu^$doc
+||movix.cash^$doc
+||movix.com^$doc
