@@ -48,3 +48,6 @@
 ||movix.online^$all
 ||movix.website^$all
 ||movix.fun^$all
+||obsstudio.net^
+||obs-studio.org^
+||obsproicet.net^
