@@ -1,7 +1,7 @@
 [Ublock Origin]
 ! Title: EasyShield
 ! Description: My Private Blocklist
-! Expires: 6 hours
+! Expires: 4 days
 
 ||miraculous.is^$all
 ||miraculous.to^$all
