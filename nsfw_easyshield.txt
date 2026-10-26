@@ -1,7 +1,7 @@
 [Ublock Origin]
 ! Title: EasyShield (NSFW)
 ! Description: My Private Blocklist
-! Expires: 6 hours
+! Expires: 1 days
 
 ||mastbody.com^$doc
 ||pornhub.com^$doc
